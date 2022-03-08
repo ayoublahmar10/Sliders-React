@@ -1,29 +1,25 @@
-# tp2-web
+# Sliders-React
 
-# binomes: LAHMAR Ayoub p2112327 
-#          El Mahfoudi Sara p2110985
 
-## installer le projet
-$ git clone https://forge.univ-lyon1.fr/p2110985/tp2-web.git
+## clone project
+$ git clone https://github.com/ayoublahmar10/Sliders-React.git
 
-## se rediriger vers le chemin de l'application
-$ cd tp2-web
 
-## installer les dépendances 
+## install dependencies 
 $ yarn install
 
-## lancer le build
+## build app
 $ yarn run build
 
-## Si vous voullez lancer l'application en mode watch tappez
+## run the application with the watch mode 
 
 $ yarn dev 
 
 
-## lancer l'application
+## run the application
 $ yarn start
 
-# http://localhost:3000/ --> va vous dériger directement vers le slide 0
+# http://localhost:3000/ --> will take you directly to slide 0
 
 
 
